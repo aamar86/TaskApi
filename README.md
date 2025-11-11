@@ -9,7 +9,7 @@
 ## Run
 ```bash
 dotnet restore
-dotnet build Tasky-CleanArch-BaseRepo-Sln.sln
+dotnet build Tasky-CleanArchitecture-Aamar.sln
 
 # Add migrations & update DB:
 dotnet tool install --global dotnet-ef
